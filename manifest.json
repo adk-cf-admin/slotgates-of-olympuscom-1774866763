@@ -1,15 +1,15 @@
 {
-  "name": "Gates of Olympus",
-  "short_name": "Gates of Olympus",
+  "name": "Big Bass Splash",
+  "short_name": "Big Bass Splash",
   "theme_color": "",
-  "background_color": "#221330",
+  "background_color": "#460e01",
   "display": "standalone",
   "orientation": "portrait",
   "scope": "/",
   "start_url": "/",
   "icons": [
     {
-      "src": "_assets/images/1774865313-gates-of-olympus-thumbnail-logo-1.webp",
+      "src": "_assets/images/1774866093-2cdde1c3-b583-4964-bd87-5e6d1744231a-designs-94911-big-bass-splash-logo-1.webp",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "maskable any"
