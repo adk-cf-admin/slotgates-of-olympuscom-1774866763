@@ -1,0 +1,200 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#221330",
+            "lang-select-color": "#222829",
+            "bg-light": "#221330",
+            "welcome-bonus-bg": "#221330",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#150c1d",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#54297f",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#f8b90d",
+            "yellow": "#54297f",
+            "yellow-button": "#f8b90d",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#54297f",
+            "casino-cards": "#221330",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#54297f",
+            "providers-back": "#221330",
+            "faq-label": "#221330",
+            "bg-footer": "#221330",
+            "copyright": "#e7e7d5",
+            "starColor": "#54297f",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5300"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5301",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Gates of Olympus Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5302",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Gates of Olympus"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-en",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Gates of Olympus",
+                    "title": "Gates of Olympus Slot Review, Demo Mode, Bonuses and Game Rules",
+                    "description": "Discover Gates of Olympus and learn how this popular Zeus-themed slot works, including free spins, multipliers up to x500, symbol payouts, bonus features, and practical tips for a smoother playing experience.",
+                    "canonical": "slotgates-of-olympus.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5303",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "slotgates-of-olympus.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5304"
+                },
+                "hero": {
+                    "title": "Gates of Olympus Slot with Free Spins, Multipliers and Powerful Bonus Play",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5305",
+                    "imageSizeModifier": 10,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5306",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Powerful Zeus theme with cinematic visuals",
+                        "Multipliers up to x500 boost wins",
+                        "Cascading wins extend every successful spin",
+                        "Free spins with accumulating strong multipliers",
+                        "Pays symbols anywhere on the grid",
+                        "Simple controls and fast game rhythm",
+                        "High potential for exciting bigger payouts"
+                    ],
+                    "advantagesAfterText": "Some text after list",
+                    "knowMore": "Know more",
+                    "appTitle": "Gates of Olympus App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5308",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Gates of Olympus App",
+                    "mobileGooglePlayImageTitle": "Gates of Olympus App",
+                    "mobileIosImageTitle": "Gates of Olympus App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "Gates of Olympus— slot review and features",
+                        "description1": "Gates of Olympus is a fast-paced Ancient Greece themed slot built around Zeus, tumbling wins, random multipliers, and bonus free spins.",
+                        "items": [],
+                        "description2": "The game uses a pay-anywhere style, so matching symbols can create wins across the grid without relying on traditional paylines. Its main attraction is the multiplier system, which can turn regular hits into much stronger payouts and becomes especially exciting during the bonus feature. The base game feels active because winning symbols disappear and new ones drop into place for extra chances within the same spin. Free spins are triggered by scatter symbols and give the slot its most explosive moments. Gates of Olympus is a strong choice for players who enjoy energetic gameplay, high volatility, and the possibility of big momentum swings.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5307",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": ""
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Gates of Olympus",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nGates of Olympus Key Features and Core Mechanics\n<\/h3>\n<p>\nGates of Olympus is a high-energy slot that replaces classic paylines with a pay-anywhere system across a 6x5 grid. The gameplay feels lively thanks to tumbling wins, random multipliers, and a free spins feature that can completely change the pace of a session. It is easy to understand at first glance, yet it offers enough volatility and bonus depth to stay exciting for experienced slot players. The game is especially appealing to users who enjoy fast rounds, mythological visuals, and strong win potential during feature play.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nGates of Olympus Main Characteristics\n<\/h4>\n<ul>\n            <li>• Provider: Pragmatic Play<\/li>\n            <li>• Theme: Ancient Greece, Zeus, Olympus<\/li>\n            <li>• Grid size: 6x5<\/li>\n            <li>• Payout system: 8+ matching symbols anywhere on the grid<\/li>\n            <li>• Core mechanic: tumble \/ cascading wins<\/li>\n            <li>• Free spins: 15 awarded by 4 or more scatters<\/li>\n            <li>• Multipliers: random values up to x500<\/li>\n            <li>• RTP: 96.50%<\/li>\n            <li>• Volatility: high<\/li>\n            <li>• Overall feel: explosive bonus-driven gameplay<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWhere to Play Gates of Olympus\n<\/h3>\n<p>\nGates of Olympus is usually available on major online gaming platforms that feature popular slot providers. In most cases, the game can be opened both on desktop browsers and on mobile devices, which makes access simple and flexible. Many platforms offer both demo play and real-money mode, allowing users to learn the mechanics before switching to full play. The slot is commonly found through the main slot lobby, featured game sections, or a direct search by name. A smooth platform, clear navigation, and stable performance make the overall experience much more enjoyable.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nGates of Olympus Demo Mode\n<\/h3>\n<p>\nThe demo mode in Gates of Olympus lets players explore the slot without risking real money. It usually mirrors the same symbols, multipliers, tumbling mechanics, and free spins found in the standard version, but uses virtual credits instead of cash. This makes it a practical way to understand the pace of the game and the impact of its high volatility before placing actual bets. Demo play is especially useful for learning the rules, testing bet comfort, and getting familiar with the bonus feature in a relaxed format.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nGates of Olympus Symbol Payout Table\n<\/h3>\n<p>\nThe Gates of Olympus paytable is built around premium themed symbols and lower-paying gems that can still create useful cascades across the grid. Premium icons deliver the strongest single-symbol payouts, while gem symbols help sustain the rhythm of the base game. This table gives a clear picture of how the symbol values are generally ranked inside the slot.\n<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color:#54297F;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Symbol<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Top Payout<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Notes<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Crown<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Up to x50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Top premium symbol in the game<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Hourglass<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Up to x25<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Strong premium payout potential<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Ring<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Up to x15<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Common premium symbol for solid wins<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Cup<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Up to x12<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Reliable premium symbol<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Red Gem<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Up to x10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Highest-paying gem symbol<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Purple Gem<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Up to x8<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Mid-tier gem value<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Yellow Gem<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Up to x5<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Regular base-game symbol<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Green Gem<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Up to x4<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Lower-paying symbol<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Blue Gem<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Up to x2<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Most basic symbol on the grid<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Scatter<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Feature trigger<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">4+ scatters award 15 free spins<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nHow Players Win in Gates of Olympus in Real Practice\n<\/h3>\n<p>\nPlayers do not beat Gates of Olympus through a hidden trick or a guaranteed pattern. In real play, the most noticeable wins usually come from well-timed bonus rounds where several multipliers stack onto the same successful tumble. The base game mainly works as the path toward that explosive moment, helping players reach scatters, cascades, and momentum-building spins. A common mistake is raising the stake too aggressively in an attempt to force the feature, even though the game is built around high volatility and patience. In practice, steadier bet sizing, a clearly defined bankroll, and enough breathing room for the session tend to produce a much more controlled experience. When free spins finally land, the real power comes from accumulated multipliers, because that is where ordinary-looking wins can become much more dramatic.\n<\/p>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Gates of Olympus — bonuses, features, and how to play",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nGates of Olympus Bonuses and Special Offers\n<\/h3>\n<p>\nGates of Olympus is built around bonus-driven gameplay, which is why the slot feels exciting even during the base game. Its strongest moments usually come from free spins, random multipliers, and tumble chains working together inside the same sequence. On some platforms and in certain jurisdictions, extra options may also be available to increase scatter access or jump directly into the feature. From a player perspective, the most valuable bonus is not just the free spins round itself, but the chance to combine multiple multipliers during that feature. Platform promotions can also add extra value through welcome packages, free spins on selected slots, cashback, or reload deals. The key is understanding which bonuses belong to the slot mechanics and which ones come from the platform.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nGates of Olympus Free Spins\n<\/h4>\n<ul>\n            <li>• 15 free spins are awarded when 4 or more scatter symbols land. This is the main in-game bonus and the most exciting phase for players chasing bigger swings.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRandom Multipliers\n<\/h4>\n<ul>\n            <li>• Multiplier values can range from x2 to x500. When several multipliers connect with a winning result, they are added together and can dramatically improve the final payout.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTumble Wins\n<\/h4>\n<ul>\n            <li>• Winning symbols disappear and new symbols fall into place, which can create extended chains from a single spin. This feature is one of the reasons the slot feels so lively.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAnte Bet Option\n<\/h4>\n<ul>\n            <li>• In some versions, Ante Bet adds roughly 25% to the stake while increasing the chance of landing scatters. It can speed up the bonus feel of the game, but it also raises session cost.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonus Buy Feature\n<\/h4>\n<ul>\n            <li>• In selected regions, players may see a bonus buy option priced at around x100 of the current bet. This gives instant access to free spins, but it is not available everywhere.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWelcome Offers\n<\/h4>\n<ul>\n            <li>• Some platforms pair Gates of Olympus with examples such as a 100% first deposit bonus or 50 to 200 free spins on selected slot titles. These are external promotions rather than built-in slot features.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCashback and Reload Deals\n<\/h4>\n<ul>\n            <li>• General examples include 5% to 15% cashback or reload bonuses on later deposits. These offers can soften the impact of high volatility and support longer sessions.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nGates of Olympus Free Spins and Multipliers\n<\/h3>\n<p>\nThe free spins feature and multiplier system are the true core of Gates of Olympus. They create the dramatic shift from a calm base game into a much more explosive bonus sequence, which is exactly what makes the slot so memorable. The table below gives a clear view of how the main feature mechanics work together.\n<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #54297F;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Feature<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Trigger<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Effect<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Free Spins<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">4+ scatters<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Awards 15 free spins<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Base Game Multipliers<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Randomly during winning tumbles<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Boosts payouts up to x500<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Free Spins Multipliers<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Appear on winning feature results<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Add together and increase the final win<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Multiple Multipliers<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Several land on one result<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Values are summed together<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Retrigger Potential<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Extra scatters during feature play<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Extends the bonus session<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Tumble Mechanic<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Any winning combination<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Creates extra chances in the same spin<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nHow to Play Gates of Olympus\n<\/h3>\n<p>\nPlaying Gates of Olympus is simple, but understanding the win structure makes the experience much smoother. The goal is to choose a comfortable stake, spin consistently, and watch how tumbles, multipliers, and scatters interact across the grid. Once you understand the bonus rhythm of the slot, it becomes easier to manage both the pace of play and your bankroll.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 1: Launch the Game\n<\/h4>\n<ul>\n            <li>• Open Gates of Olympus and choose either demo mode for practice or the standard version for full gameplay.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 2: Set Your Bet\n<\/h4>\n<ul>\n            <li>• Pick a stake that fits your balance. Because the slot is high volatility, a comfortable bet size helps support a longer session.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 3: Start the Spin\n<\/h4>\n<ul>\n            <li>• Press the spin button and watch for 8 or more matching symbols anywhere on the 6x5 grid.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 4: Follow the Tumbles\n<\/h4>\n<ul>\n            <li>• When a win lands, the symbols disappear and new ones drop in. This can create additional results within the same spin.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 5: Watch the Multipliers\n<\/h4>\n<ul>\n            <li>• Random multipliers can strengthen a win dramatically, especially when they connect during a successful tumble chain.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 6: Trigger Free Spins\n<\/h4>\n<ul>\n            <li>• Landing 4 or more scatters awards 15 free spins, which is the most exciting feature in the game.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 7: Stay in Control\n<\/h4>\n<ul>\n            <li>• Set session limits for time, spending, and emotional comfort before you start spinning.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nGates of Olympus Playing Tips\n<\/h3>\n<p>\nGates of Olympus works best for players who respect its high volatility and do not try to force instant results. The slot often rewards patience more than emotional bet changes, which is why preparation matters before the session even begins. A steady approach usually makes the experience feel smoother, more controlled, and easier to enjoy.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStart with Demo Play\n<\/h4>\n<ul>\n            <li>• Test the slot with virtual credits first so you can understand the pace of tumbles, scatters, and multipliers.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nUse a Moderate Stake\n<\/h4>\n<ul>\n            <li>• Avoid starting too high. A comfortable bet size gives you more room to handle the natural swings of the game.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRespect High Volatility\n<\/h4>\n<ul>\n            <li>• Gates of Olympus can stay quiet for a while and then suddenly become explosive. Patience is part of the experience.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nDo Not Chase the Feature\n<\/h4>\n<ul>\n            <li>• Raising the stake just to force free spins usually adds unnecessary pressure and can damage bankroll control.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nThink in Sessions\n<\/h4>\n<ul>\n            <li>• Focus on how long you want to play rather than expecting every short run to deliver a bonus instantly.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nUse Autoplay Carefully\n<\/h4>\n<ul>\n            <li>• Autoplay is convenient, but it should never replace attention. Pause regularly and review your balance and bet size.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nSet a Clear Session Goal\n<\/h4>\n<ul>\n            <li>• Decide whether you are testing the slot, playing casually, or committing to a longer session. That keeps decisions consistent.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nGates of Olympus Mistakes That Drain the Bankroll\n<\/h3>\n<p>\nMost bankroll losses in Gates of Olympus come from poor session decisions rather than from the slot alone. High volatility can push players into emotional choices, especially after dry stretches or exciting bonus moments. The better you understand the common mistakes, the easier it becomes to stay in control and avoid turning the session into a rushed chase.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStarting Too High\n<\/h4>\n<ul>\n            <li>• A large opening stake cuts down session length and reduces your chance to comfortably reach the feature phase of the game.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nChasing Losses\n<\/h4>\n<ul>\n            <li>• Raising bets after a losing run usually increases pressure and speeds up bankroll damage instead of solving it.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPlaying Without Limits\n<\/h4>\n<ul>\n            <li>• No time or spending cap means decisions become emotional, and emotional sessions often become expensive sessions.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nIgnoring Volatility\n<\/h4>\n<ul>\n            <li>• Expecting constant action from a high-volatility slot creates frustration and leads to poor in-session choices.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nSkipping Demo Mode\n<\/h4>\n<ul>\n            <li>• New players who skip practice often misunderstand how pay-anywhere wins, tumbles, and multipliers actually behave.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBetting Emotionally After a Win\n<\/h4>\n<ul>\n            <li>• Increasing the stake right after a strong hit because the game feels “hot” is a very common and costly mistake.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPlaying Too Long Without Breaks\n<\/h4>\n<ul>\n            <li>• Fatigue reduces focus and makes impulse decisions more likely, which is dangerous in a fast-moving slot session.<\/li>\n<\/ul><br>"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Does Gates of Olympus use traditional paylines?",
+                            "answer": "No. The slot uses a pay-anywhere format where 8 or more matching symbols can create a win across the grid, which makes the gameplay feel more fluid and modern."
+                        },
+                        {
+                            "title": "Does the game have a progressive jackpot?",
+                            "answer": "No. Gates of Olympus does not rely on a progressive jackpot system. Its main excitement comes from free spins, multipliers, and tumble chains."
+                        },
+                        {
+                            "title": "Does Gates of Olympus include autoplay?",
+                            "answer": "In many versions, yes. Autoplay can be useful for rhythm-based sessions, but it should always be used with full attention to spending limits."
+                        },
+                        {
+                            "title": "Does the slot create “near bonus” moments?",
+                            "answer": "Yes. One of the reasons the game feels so tense is that players often see several scatters land without fully triggering the feature, which adds anticipation."
+                        },
+                        {
+                            "title": "What makes Gates of Olympus different from standard video slots?",
+                            "answer": "Its biggest differences are the pay-anywhere system, cascading wins after successful combinations, and the strong role of random multipliers."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
